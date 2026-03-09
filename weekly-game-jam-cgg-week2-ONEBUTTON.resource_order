@@ -1,9 +1,12 @@
 {
   "FolderOrderSettings":[
+    {"name":"Rooms","order":2,"path":"folders/Rooms.yy",},
     {"name":"Objects","order":1,"path":"folders/Objects.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"obj_game_controller","order":2,"path":"objects/obj_game_controller/obj_game_controller.yy",},
     {"name":"obj_menu","order":1,"path":"objects/obj_menu/obj_menu.yy",},
+    {"name":"rm_gameRoom","order":2,"path":"rooms/rm_gameRoom/rm_gameRoom.yy",},
+    {"name":"rm_menu","order":1,"path":"rooms/rm_menu/rm_menu.yy",},
   ],
 }
