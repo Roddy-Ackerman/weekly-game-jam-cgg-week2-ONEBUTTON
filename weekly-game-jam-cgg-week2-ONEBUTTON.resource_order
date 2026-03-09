@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":1,"path":"folders/Objects.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_game_controller","order":2,"path":"objects/obj_game_controller/obj_game_controller.yy",},
+    {"name":"obj_menu","order":1,"path":"objects/obj_menu/obj_menu.yy",},
+  ],
+}
