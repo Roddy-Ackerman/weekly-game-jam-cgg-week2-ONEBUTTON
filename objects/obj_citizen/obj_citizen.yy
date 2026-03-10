@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_citizen",
+    "path":"sprites/spr_citizen/spr_citizen.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

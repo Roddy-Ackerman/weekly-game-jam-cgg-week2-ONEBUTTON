@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_iron",
+    "path":"sprites/spr_iron/spr_iron.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

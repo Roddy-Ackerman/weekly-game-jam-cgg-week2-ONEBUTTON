@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_building",
+  "%Name":"obj_building_blacksmith",
   "eventList":[],
   "managed":true,
-  "name":"obj_building",
+  "name":"obj_building_blacksmith",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Buildings",
+    "path":"folders/Objects/Buildings.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_building",
-    "path":"sprites/spr_building/spr_building.yy",
+    "name":"spr_blacksmith",
+    "path":"sprites/spr_blacksmith/spr_blacksmith.yy",
   },
   "spriteMaskId":null,
   "visible":true,
