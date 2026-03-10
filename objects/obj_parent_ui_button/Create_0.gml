@@ -10,3 +10,5 @@ clicked  = false;
 
 x_buffer = 0;
 y_buffer = 0;
+
+button_title = "";

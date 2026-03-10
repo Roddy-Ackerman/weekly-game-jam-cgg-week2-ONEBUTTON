@@ -1,4 +1,4 @@
 
-
-
-draw_text(display_get_gui_width()*.5,display_get_gui_height()*.5,"You are in the Game Room \n Press Escape to return to menu");
+draw_text(50,25,"Food: " + string(current_food));
+draw_text(50,50,"Gold: " + string(current_gold));
+draw_text(50,75,"Iron: " + string(current_iron));

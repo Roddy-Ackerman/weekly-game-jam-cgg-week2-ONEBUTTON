@@ -4,8 +4,4 @@
 // Inherit the parent event
 event_inherited();
 
-x_buffer = 600;
-
-button_title = "Farm";
-
-image_index = button_green;
+button_title = "Barracks";
