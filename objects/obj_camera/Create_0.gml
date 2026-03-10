@@ -1,1 +1,1 @@
-camera_speed = 2;
+camera_speed = 5;
