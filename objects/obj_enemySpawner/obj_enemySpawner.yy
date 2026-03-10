@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_init",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_enemySpawner",
+  "eventList":[],
   "managed":true,
-  "name":"obj_init",
+  "name":"obj_enemySpawner",
   "overriddenProperties":[],
   "parent":{
     "name":"Meta Objects",

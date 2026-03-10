@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_init",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_building",
+  "eventList":[],
   "managed":true,
-  "name":"obj_init",
+  "name":"obj_building",
   "overriddenProperties":[],
   "parent":{
-    "name":"Meta Objects",
-    "path":"folders/Objects/Meta Objects.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_building",
+    "path":"sprites/spr_building/spr_building.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

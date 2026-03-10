@@ -1,0 +1,10 @@
+Weekly Game Jam Theme = One Button
+
+Ideas
+1. some sype of skill game where the bow goes back and forth and you have to hit the spacebar to shoot at target
+2. A button (like from clothing) gets rolled down hill and based on timing of hitting spacebar it launches further
+3. Builder city building/tower defense type game where you protect your button from being pressed by incoming enemies
+
+
+What I'm doing:
+Develop little village that can grow food and collect water and resources to build defense forces to protect the button
