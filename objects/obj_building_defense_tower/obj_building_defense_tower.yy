@@ -1,15 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_building_defenseTower",
+  "%Name":"obj_building_defense_tower",
   "eventList":[],
   "managed":true,
-  "name":"obj_building_defenseTower",
+  "name":"obj_building_defense_tower",
   "overriddenProperties":[],
   "parent":{
     "name":"Buildings",
     "path":"folders/Objects/Buildings.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_parent_building",
+    "path":"objects/obj_parent_building/obj_parent_building.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

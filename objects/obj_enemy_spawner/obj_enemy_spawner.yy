@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_enemySpawner",
+  "%Name":"obj_enemy_spawner",
   "eventList":[],
   "managed":true,
-  "name":"obj_enemySpawner",
+  "name":"obj_enemy_spawner",
   "overriddenProperties":[],
   "parent":{
     "name":"Meta Objects",
