@@ -4,4 +4,4 @@
 // Inherit the parent event
 event_inherited();
 
-button_title = "Barracks";
+button_title = "Barracks \n -25 Food";

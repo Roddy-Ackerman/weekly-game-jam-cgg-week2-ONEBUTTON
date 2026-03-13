@@ -1,4 +1,3 @@
-instance_create_layer(room_width*.5,room_height*.5,"layer_camera",obj_camera);
 
 num_of_food = 200;
 
@@ -9,3 +8,4 @@ for (i=0; i<=num_of_food; i++) {
 current_gold = global.start_gold;
 current_iron = global.start_iron;
 current_food = global.start_food;
+current_water = global.start_water;

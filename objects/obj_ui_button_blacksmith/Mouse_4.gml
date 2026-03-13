@@ -4,5 +4,7 @@
 // Inherit the parent event
 event_inherited();
 
-
-instance_create_layer(x,y,"instances",obj_building_blacksmith);
+if obj_game_controller.current_iron >= 25 {
+	obj_game_controller.current_iron -= 25;
+	instance_create_layer(x,y,"instances",obj_building_blacksmith);
+}

@@ -6,6 +6,6 @@ event_inherited();
 
 x_buffer = 400;
 
-button_title = "Defense Tower";
+button_title = " Defense Tower \n-25 Gold";
 
 image_index = button_red;

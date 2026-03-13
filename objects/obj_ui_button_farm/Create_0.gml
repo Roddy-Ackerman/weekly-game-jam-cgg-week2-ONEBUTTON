@@ -6,6 +6,6 @@ event_inherited();
 
 x_buffer = 600;
 
-button_title = "Farm";
+button_title = "Farm \n -25 Water";
 
 image_index = button_green;
