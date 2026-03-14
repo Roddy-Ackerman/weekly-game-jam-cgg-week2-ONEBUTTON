@@ -4,5 +4,4 @@
 // Inherit the parent event
 event_inherited();
 
-
-training_time = 500;
+smelt_iron = 500;

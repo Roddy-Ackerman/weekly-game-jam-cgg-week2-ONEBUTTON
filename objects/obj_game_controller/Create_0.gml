@@ -9,3 +9,5 @@ current_gold = global.start_gold;
 current_iron = global.start_iron;
 current_food = global.start_food;
 current_water = global.start_water;
+
+current_timer = global.win_timer;

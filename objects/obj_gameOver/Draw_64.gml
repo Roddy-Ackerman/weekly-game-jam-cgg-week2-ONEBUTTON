@@ -1,0 +1,1 @@
+draw_text(display_get_gui_width()*.5, display_get_gui_height()*.5,"The enemy stole your button \n Click Escape for to retry!");

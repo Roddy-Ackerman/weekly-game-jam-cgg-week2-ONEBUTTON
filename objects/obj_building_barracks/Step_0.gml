@@ -11,5 +11,5 @@ if training_time <=0 {
 		obj_game_controller.current_food -=10;
 		instance_create_layer(x,y,"Instances",obj_citizen);
 	}
-	training_time = 150;
+	training_time = 500;
 }

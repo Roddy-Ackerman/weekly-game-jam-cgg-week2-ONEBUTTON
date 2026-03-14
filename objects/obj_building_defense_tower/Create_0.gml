@@ -4,5 +4,6 @@
 // Inherit the parent event
 event_inherited();
 
+shoot_iron = false;
 
-training_time = 500;
+shoot_cooldown = 200;
