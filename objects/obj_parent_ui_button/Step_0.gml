@@ -1,2 +1,2 @@
-x = obj_camera.x - 300 + x_buffer;
-y = obj_camera.y + 300 + y_buffer;
+x = obj_camera.x - 200 + x_buffer;
+y = obj_camera.y + 150 + y_buffer;

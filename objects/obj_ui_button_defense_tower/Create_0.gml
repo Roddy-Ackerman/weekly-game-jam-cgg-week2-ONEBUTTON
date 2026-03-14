@@ -4,7 +4,7 @@
 // Inherit the parent event
 event_inherited();
 
-x_buffer = 400;
+x_buffer = 300;
 
 button_title = " Defense Tower \n-25 Gold";
 

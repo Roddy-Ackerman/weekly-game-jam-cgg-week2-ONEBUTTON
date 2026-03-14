@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"Fonts","order":4,"path":"folders/Fonts.yy",},
     {"name":"Buildings","order":9,"path":"folders/Objects/Buildings.yy",},
     {"name":"Meta Objects","order":3,"path":"folders/Objects/Meta Objects.yy",},
     {"name":"Resources","order":7,"path":"folders/Objects/Resources.yy",},
@@ -11,6 +12,7 @@
     {"name":"UI Button","order":6,"path":"folders/Sprites/UI Button.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"fnt_default","order":1,"path":"fonts/fnt_default/fnt_default.yy",},
     {"name":"Scratch Notes","order":2,"path":"notes/Scratch Notes/Scratch Notes.yy",},
     {"name":"obj_background_grass","order":11,"path":"objects/obj_background_grass/obj_background_grass.yy",},
     {"name":"obj_building_barracks","order":2,"path":"objects/obj_building_barracks/obj_building_barracks.yy",},

@@ -10,6 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Buildings","folderPath":"folders/Objects/Buildings.yy","name":"Buildings","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Meta Objects","folderPath":"folders/Objects/Meta Objects.yy","name":"Meta Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -30,6 +31,8 @@
   },
   "name":"weekly-game-jam-cgg-week2-ONEBUTTON",
   "resources":[
+    {"id":{"name":"fnt_default","path":"fonts/fnt_default/fnt_default.yy",},},
+    {"id":{"name":"fnt_UI","path":"fonts/fnt_UI/fnt_UI.yy",},},
     {"id":{"name":"Scratch Notes","path":"notes/Scratch Notes/Scratch Notes.yy",},},
     {"id":{"name":"obj_background_grass","path":"objects/obj_background_grass/obj_background_grass.yy",},},
     {"id":{"name":"obj_building_barracks","path":"objects/obj_building_barracks/obj_building_barracks.yy",},},

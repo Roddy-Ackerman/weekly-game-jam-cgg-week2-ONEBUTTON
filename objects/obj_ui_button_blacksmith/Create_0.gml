@@ -4,7 +4,7 @@
 // Inherit the parent event
 event_inherited();
 
-x_buffer = 200;
+x_buffer = 150;
 
 button_title = "Blacksmith \n -25 Iron";
 

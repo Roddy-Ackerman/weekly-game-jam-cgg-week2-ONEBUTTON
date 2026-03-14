@@ -4,7 +4,7 @@
 // Inherit the parent event
 event_inherited();
 
-x_buffer = 600;
+x_buffer = 450;
 
 button_title = "Farm \n -25 Water";
 
